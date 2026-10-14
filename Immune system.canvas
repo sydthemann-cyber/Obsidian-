@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"9892f3211c80adb7","type":"file","file":"Objects/immune systems.png","x":-4480,"y":-600,"width":3200,"height":2265},
+		{"id":"c95ca2125af20ead","type":"file","file":"Objects/live attenuated vaccine.md","x":-1080,"y":-600,"width":300,"height":250},
+		{"id":"1637ec7f525e05c4","type":"file","file":"Objects/inactivated vaccine.md","x":-1080,"y":-280,"width":300,"height":250},
+		{"id":"529944b37bfa50bf","type":"file","file":"Objects/antigen.md","x":-1080,"y":920,"width":300,"height":250},
+		{"id":"fa1009305c667e0a","type":"file","file":"Objects/mRNA vaccine.md","x":-1080,"y":80,"width":300,"height":250}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{
+			"tags":["physiology/immune"]
+		}
+	}
+}
