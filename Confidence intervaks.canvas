@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"645eed6d6b5deabd","type":"file","file":"Objects/Pasted image 20261013102555.png","x":0,"y":0,"width":1036,"height":720},
+		{"id":"62f650fef008ad44","type":"file","file":"Objects/p-value.md","x":1120,"y":595,"width":300,"height":250},
+		{"id":"fadeaac8d705e442","type":"file","file":"Objects/z-score.md","x":736,"y":800,"width":300,"height":250},
+		{"id":"11e360e73768835a","type":"file","file":"Objects/α - Critical value.md","x":1120,"y":0,"width":300,"height":250},
+		{"id":"7296dfbbec48ac40","type":"file","file":"Objects/Alternative hypothesis.md","x":-360,"y":360,"width":300,"height":250},
+		{"id":"17ac843c7e94df3e","type":"file","file":"Objects/Null hypothesis.md","x":-360,"y":675,"width":300,"height":250},
+		{"id":"3316f5986a3989f1","type":"file","file":"Objects/CI for RR.md","x":736,"y":-320,"width":300,"height":250},
+		{"id":"60ecf927d520839e","type":"file","file":"Objects/CI for IRR.md","x":368,"y":-320,"width":300,"height":250},
+		{"id":"7de09596eee435be","type":"file","file":"Objects/CI for OR.md","x":0,"y":-320,"width":300,"height":250}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
