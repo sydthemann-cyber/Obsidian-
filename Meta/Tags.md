@@ -1,0 +1,63 @@
+---
+tags:
+  - ecology
+  - ecology/community
+  - ecology/competition
+  - ecology/global-change
+  - ecology/microbiome
+  - genetics
+  - genetics/cholera
+  - genetics/cholera
+  - genetics/defense-systems
+  - genetics/gene
+  - genetics/gene-regulation
+  - genetics/HGT
+  - genetics/mobile-genetic-elements
+  - genetics/plasmid
+  - methods
+  - molecule
+  - molecule/carbohydrate
+  - molecule/glycolipid
+  - molecule/nucleic-acid
+  - molecule/peptide
+  - molecule/polysaccharide
+  - molecule/second-messenger
+  - molecule/toxin
+  - organism
+  - organism/bacteria
+  - organism/bacteria/e-coli
+  - organism/bacteria/pseudomonas
+  - organism/bacteria/vibrio
+  - organism/host
+  - organism/phage
+  - process
+  - process/biofilm
+  - physiology/cancer
+  - interaction/defense
+  - evolution
+  - process/metabolism
+  - process/motility
+  - interaction/pathogenesis
+  - interaction/resistance
+  - process/signaling
+  - protein
+  - protein/enzyme
+  - protein/matrix
+  - question
+  - protein/transcription-factor
+  - structure/cell-envelope
+  - structure/cell-wall
+  - structure/pili
+  - physiology/immune
+  - physiology
+  - structure/secretion
+  - structure/flagellum
+  - structure
+  - structure/biofilm-matrix
+  - tag2
+  - tag3
+  - physiology
+  - physiology/cancer
+---
+
+

@@ -1,0 +1,5 @@
+---
+tags:
+  - genetics
+  - organism/bacteria
+---

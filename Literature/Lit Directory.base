@@ -1,0 +1,32 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("Literature/Notes")
+    groupBy:
+      property: Topic
+      direction: ASC
+    order:
+      - file.name
+      - notes
+      - title
+      - tags
+      - year
+      - Topic
+    sort:
+      - property: notes
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: Topic
+        direction: DESC
+      - property: title
+        direction: ASC
+    columnSize:
+      file.name: 273
+      note.title: 236
+      note.tags: 347
+      note.year: 81

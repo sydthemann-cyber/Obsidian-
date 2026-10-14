@@ -1,0 +1,5 @@
+---
+tags:
+  - epidemiology
+---
+standard deviation 

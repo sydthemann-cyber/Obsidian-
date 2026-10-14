@@ -1,0 +1,17 @@
+---
+tags:
+  - epidemiology
+---
+- [[parameter]]
+- [[sample]]
+- [[inference]]
+- [[normal distribution]]
+- [[sampling distribution]]
+- [[standard error SE]]
+- [[95% CI]]
+- [[α - Critical value]]
+- [[Null hypothesis]]
+- [[Alternative hypothesis]]
+- [[statistical significance - alpha]]
+- [[CI based hypothesis test]]
+- 

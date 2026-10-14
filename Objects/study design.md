@@ -1,0 +1,32 @@
+---
+tags:
+  - epidemiology
+---
+- descriptive design
+	- [[case reports]]
+	- [[case series]]
+	- [[population surveillance]]
+- analytic + observational design
+	- [[cross sectional study]]
+		- [[prevalence ratio (cross section)]]
+	- [[cohort study]]
+		- [[RR cohort]]
+		- [[prospective cohort study]]
+		- [[retrospective cohort study]]
+	- [[case-control study]]
+	- [[ecological study]] 
+- analytic + expiremental 
+	- [[randomized controlled trials]]
+		- [[RCT steps]]
+- [[study designs chart]]
+- [[causal factor]]
+- [[counterfactual]]
+- [[retrospective vs case control]]
+- [[selection bias]]
+- [[recall bias]]
+- [[rare disease assumption]]
+- [[ecological fallacy]]
+- [[confounding]]
+- [[stratification]]
+- [[intention to treat analysis]]
+- [[efficacy analysis]]
